@@ -5,7 +5,10 @@ Our findings predict significant accuracy differences between the two linguistic
 
 By addressing disparities in ASR systems, this work contributes to broader AI fairness and AI-human interaction goals by emphasizing the need for inclusive data sampling, transparency, and ethical design. Our findings aim to foster advancements in voice recognition technology, ensuring accessibility and equity for all users.
 
-Rhett Lavender, Data Science B.S., Junior
+Rhett Lavender, Data Science B.S., Statistics and Analytics Minor, Junior
+
 Arjun Mahesh, Computer Science B.S., Sophomore
+
 Rebekah Northrup, Statistics and Analytics B.S., Data Science B.A., Sophomore
+
 Shana Tran, Computer Science B.A., Data Science B.A., Junior
